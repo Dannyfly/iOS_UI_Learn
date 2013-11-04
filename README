@@ -1,0 +1,10 @@
+初学iOS的控件编程的集合Demo
+
+编译环境 MacOSX 10.8.4  /   Xcode 4.6   /  iphoneSDK 6.1  
+运行环境 iphoen simulator 6.0 / 6.1
+
+用到了 TabBar，TableView ScrollView PageControl，ImageView，Button等常用控件类
+
+2013-11-03
+
+---------------------------------------------------------------------------------------------------------------------------------
